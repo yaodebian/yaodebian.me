@@ -8,7 +8,7 @@ projects:
   Current Focus:
     - name: 'code analyzer for code review'
       link: ''
-      desc: ''
+      desc: 'A code analyzer that helps developers and testers identify potential issues by scanning for code risks based on git diff information. This project is still in the early stages and is not yet ready for public use.'
       icon: ''
 
 ---
