@@ -23,7 +23,7 @@ Find me on
   <!-- <a href="" target="_blank"><span op75 i-simple-icons-sinaweibo />微信公众号「冬沐」</a> -->
 </p>
 
-Or mail me at <span font-mono>hi<span i-carbon-at/>yaodebian@gmail.com</span>
+Or mail me at <span font-mono>yaodebian<span i-carbon-at/>gmail.com</span>
 
 <!-- --- -->
 
